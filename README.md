@@ -19,13 +19,13 @@ Technologies Used
 
 Project Structure
 portfolio-website/
-=index.html
-=style.css
-=script.js
-=thyself.jpeg
-=project-a.png
-=project-b.png
-=project-c.jpg
+|-- index.html
+|-- style.css
+|-- script.js
+|-- thyself.jpeg
+|-- project-a.png
+|-- project-b.png
+|-- project-c.jpg
 
 Future Improvements
 - Connect the contact form to a working email service.
